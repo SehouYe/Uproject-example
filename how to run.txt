@@ -1,10 +1,16 @@
-run this to directory first
-cd /d "D:\NDHU study\Courses\U project\Uproject example"
-cd language-exchange-app
+1. Load Directory:
+  Ryan: cd /d "D:\NDHU study\Courses\U project\Uproject example"
+  cd language-exchange-app
+Darwyn:
+  Input: cd "C:\Users\dawan\OneDrive\Documents\School\Undergrad Project\Ryan_Prototype\U project\Uproject example\language-exchange-app>"
 
+2. Start Server
+Input: npm run dev
 
-npm run dev (to run the server)
-http://localhost:3000/matches
-http://localhost:3000/login
-http://localhost:3000/signup
-npx prisma studio    or    http://localhost:3000/api/users  (to get to backend all of the data of the user)
+3. Choose Page
+  Options:
+    http://localhost:3000/matches
+    http://localhost:3000/login
+    http://localhost:3000/signup
+    npx prisma studio    or
+    http://localhost:3000/api/users  (to get to backend all of the data of the user)
