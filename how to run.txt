@@ -2,7 +2,7 @@
   Ryan: cd /d "D:\NDHU study\Courses\U project\Uproject example"
   cd language-exchange-app
 Darwyn:
-  Input: cd "C:\Users\dawan\OneDrive\Documents\School\Undergrad Project\Ryan_Prototype\U project\Uproject example\language-exchange-app>"
+  Input: cd C:\Users\dawan\Documents\Undergrad Project\Ryan_Prototype\U project\Uproject example\language-exchange-app>
 
 2. Start Server
 Input: npm run dev
