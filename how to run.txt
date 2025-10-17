@@ -1,3 +1,4 @@
+Project-Guide
 1. Load Directory:
   Ryan: cd /d "D:\NDHU study\Courses\U project\Uproject example"
   cd language-exchange-app
@@ -14,3 +15,5 @@ Input: npm run dev
     http://localhost:3000/signup
     npx prisma studio    or
     http://localhost:3000/api/users  (to get to backend all of the data of the user)
+
+
