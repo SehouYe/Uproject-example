@@ -4,6 +4,8 @@ Project-Guide
   cd language-exchange-app
 Darwyn:
   Input: cd C:\Users\dawan\Documents\Undergrad Project\Ryan_Prototype\U project\Uproject example\language-exchange-app>
+Kenshin:
+cd "C:\Users\USER\Documents\Local undergrad project\Uproject local on Pc\language-exchange-app"
 
 2. Start Server
 Input: npm run dev
