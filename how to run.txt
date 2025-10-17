@@ -18,4 +18,5 @@ Input: npm run dev
     npx prisma studio    or
     http://localhost:3000/api/users  (to get to backend all of the data of the user)
 
-
+4. End Server
+Ctrl + c
