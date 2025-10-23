@@ -2,11 +2,11 @@ Project-Guide
 1. Load Directory:
   Ryan: cd /d "D:\NDHU study\Courses\U project\Uproject example"
   cd language-exchange-app
-Darwyn:
+  Darwyn:
   Input: cd C:\Users\dawan\Documents\Undergrad Project\Ryan_Prototype\U project\Uproject example\language-exchange-app>
-Kenshin:
+  Kinshin:
 cd "C:\Users\USER\Documents\Local undergrad project\Uproject local on Pc\language-exchange-app"
-Aljay:
+  Aljay:
   Input: 
 
 2. Start Server
