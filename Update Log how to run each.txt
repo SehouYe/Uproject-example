@@ -1,2 +1,4 @@
-Please install first all of the required stuff to run the experimental test.
+Please install first all of the required stuff to run the experimental test:
 npm install next react react-dom next-auth @prisma/client prisma bcryptjs lucide-react
+
+need to set up .env.local by yourself you can ask chat for it.
