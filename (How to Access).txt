@@ -1,7 +1,8 @@
 Project-Guide
 1. Load Directory:
-  Ryan: cd /d "D:\NDHU study\Courses\U project\Uproject-example"
-  cd language-exchange-app
+  Ryan: 
+D:
+cd "D:\NDHU study\Courses\U project\Uproject-example\language-exchange-app"
   Darwyn:
   Input: cd C:\Users\dawan\Documents\Undergrad Project\Ryan_Prototype\U project\Uproject example\language-exchange-app>
   Kinshin:
