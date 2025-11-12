@@ -1,0 +1,2 @@
+Please install first all of the required stuff to run the experimental test.
+npm install next react react-dom next-auth @prisma/client prisma bcryptjs lucide-react
